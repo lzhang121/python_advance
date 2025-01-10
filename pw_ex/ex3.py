@@ -3,9 +3,12 @@
 # @Author : zhanglei
 # @Email : zhspark@gmail.com
 
-def main():
-    print("OK")
+def main(flag):
+    if flag:
+        print("True")
+    else:
+        print("False")
 
 
 if __name__ == '__main__':
-    main()
+    main(True)
