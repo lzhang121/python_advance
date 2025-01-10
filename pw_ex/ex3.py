@@ -4,7 +4,7 @@
 # @Email : zhspark@gmail.com
 
 def main():
-    pass
+    print("OK")
 
 
 if __name__ == '__main__':
