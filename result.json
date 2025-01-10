@@ -1,0 +1,1225 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='W0189',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Actual Line Item Analyzer",
+                "releaseId": "S29PCE",
+                "fioriId": "W0189",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMRP_RFFMEP1AX',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "All Postings",
+                "releaseId": "S29PCE",
+                "fioriId": "FMRP_RFFMEP1AX",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='W0190',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Availability Control Line Item Analyzer",
+                "releaseId": "S29PCE",
+                "fioriId": "W0190",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F3082',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Budget Analysis",
+                "releaseId": "S29PCE",
+                "fioriId": "F3082",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMRP_RW_BUDCON',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Budget Consumption Report",
+                "releaseId": "S29PCE",
+                "fioriId": "FMRP_RW_BUDCON",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0832A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Budget Entry Document 360° View",
+                "releaseId": "S29PCE",
+                "fioriId": "F0832A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='W0152',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Budget Line Item Analyzer",
+                "releaseId": "S29PCE",
+                "fioriId": "W0152",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0725A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Budget Period Group 360° View",
+                "releaseId": "S29PCE",
+                "fioriId": "F0725A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMBPD',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Budget Period: Maintain, Manage Budget Periods - 360° View",
+                "releaseId": "S29PCE",
+                "fioriId": "FMBPD",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMRP_RW_BUDGET',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Budget Report",
+                "releaseId": "S29PCE",
+                "fioriId": "FMRP_RW_BUDGET",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMRP_RW_BUDVER',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Budget Version Comparison",
+                "releaseId": "S29PCE",
+                "fioriId": "FMRP_RW_BUDVER",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMB_B01',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Budget View by Document Type",
+                "releaseId": "S29PCE",
+                "fioriId": "FMB_B01",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='W0153',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Budget and Commitment/Actual line Item analyzer",
+                "releaseId": "S29PCE",
+                "fioriId": "W0153",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMBB',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Budgeting Workbench, Budgeting Workbench - Create Budget Document",
+                "releaseId": "S29PCE",
+                "fioriId": "FMBB",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMRP_RFFMEP1CX',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "CO Postings",
+                "releaseId": "S29PCE",
+                "fioriId": "FMRP_RFFMEP1CX",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0730A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Commitment Item Group 360° View",
+                "releaseId": "S29PCE",
+                "fioriId": "F0730A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='W0187',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Commitment Line Item Analyzer",
+                "releaseId": "S29PCE",
+                "fioriId": "W0187",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F2903',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Commitments and Actuals Analyses",
+                "releaseId": "S29PCE",
+                "fioriId": "F2903",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMRP_RFFMEP1OX',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Commitments and Funds Transfers",
+                "releaseId": "S29PCE",
+                "fioriId": "FMRP_RFFMEP1OX",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='W0188',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Controlling Line Item Analyzer",
+                "releaseId": "S29PCE",
+                "fioriId": "W0188",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F883',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Acceptance Request",
+                "releaseId": "S29PCE",
+                "fioriId": "F883",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FM6S',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Application of Funds",
+                "releaseId": "S29PCE",
+                "fioriId": "FM6S",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMBSBOS',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Budget Addresses",
+                "releaseId": "S29PCE",
+                "fioriId": "FMBSBOS",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMEDDH',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Budget Documents",
+                "releaseId": "S29PCE",
+                "fioriId": "FMEDDH",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='BP_SETS_3',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Budget Period Group",
+                "releaseId": "S29PCE",
+                "fioriId": "BP_SETS_3",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F893',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Clearing Request",
+                "releaseId": "S29PCE",
+                "fioriId": "F893",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FM_SETS_FIPEX3',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Commitment Item Group",
+                "releaseId": "S29PCE",
+                "fioriId": "FM_SETS_FIPEX3",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMCIE',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Commitment Item: Hierarchy",
+                "releaseId": "S29PCE",
+                "fioriId": "FMCIE",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMRESDISPLAY',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Earmarked Funds",
+                "releaseId": "S29PCE",
+                "fioriId": "FMRESDISPLAY",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMEDD',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Entry Document",
+                "releaseId": "S29PCE",
+                "fioriId": "FMEDD",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FM03',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display FM Document",
+                "releaseId": "S29PCE",
+                "fioriId": "FM03",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMV3',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Forecast of Revenue",
+                "releaseId": "S29PCE",
+                "fioriId": "FMV3",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FM_SETS_FUNCTION3',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Functional Area Group",
+                "releaseId": "S29PCE",
+                "fioriId": "FM_SETS_FUNCTION3",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FM5S',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Fund",
+                "releaseId": "S29PCE",
+                "fioriId": "FM5S",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FM_SETS_FUND3',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Fund Group",
+                "releaseId": "S29PCE",
+                "fioriId": "FM_SETS_FUND3",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FM_SETS_FUNDPRG3',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Funded Program Group",
+                "releaseId": "S29PCE",
+                "fioriId": "FM_SETS_FUNDPRG3",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMW3',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Funds Block",
+                "releaseId": "S29PCE",
+                "fioriId": "FMW3",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FM_SETS_FICTR3',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Funds Center Group",
+                "releaseId": "S29PCE",
+                "fioriId": "FM_SETS_FICTR3",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMSC',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Funds Center in FM Area",
+                "releaseId": "S29PCE",
+                "fioriId": "FMSC",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMZ3',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Funds Commitment",
+                "releaseId": "S29PCE",
+                "fioriId": "FMZ3",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMY3',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Funds Precommitment",
+                "releaseId": "S29PCE",
+                "fioriId": "FMY3",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMX3',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Funds Reservation",
+                "releaseId": "S29PCE",
+                "fioriId": "FMX3",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMWC',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Funds Transfer",
+                "releaseId": "S29PCE",
+                "fioriId": "FMWC",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='GMGRANTD',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Grant",
+                "releaseId": "S29PCE",
+                "fioriId": "GMGRANTD",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='GMGRANTD_NA',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Grant",
+                "releaseId": "S29PCE",
+                "fioriId": "GMGRANTD_NA",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='GM_SETS_GRANT3',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Grant Group",
+                "releaseId": "S29PCE",
+                "fioriId": "GM_SETS_GRANT3",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMSE',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Hierarchy Variant/Funds Ctr",
+                "releaseId": "S29PCE",
+                "fioriId": "FMSE",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F873',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Payment Request",
+                "releaseId": "S29PCE",
+                "fioriId": "F873",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMBSPOS',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Posting Addresses",
+                "releaseId": "S29PCE",
+                "fioriId": "FMBSPOS",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F8Q4',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display Standing Request",
+                "releaseId": "S29PCE",
+                "fioriId": "F8Q4",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMCIC',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Display commitment item",
+                "releaseId": "S29PCE",
+                "fioriId": "FMCIC",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMEDDW',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Drilldown for Budget Entry Documents",
+                "releaseId": "S29PCE",
+                "fioriId": "FMEDDW",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0833A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Earmarked Funds Document 360° View",
+                "releaseId": "S29PCE",
+                "fioriId": "F0833A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='S_P99_41000147',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Earmarked Funds Journal",
+                "releaseId": "S29PCE",
+                "fioriId": "S_P99_41000147",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F2286',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Earmarked Funds: Approval",
+                "releaseId": "S29PCE",
+                "fioriId": "F2286",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMRP_RFFMEP1FX',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "FI Postings",
+                "releaseId": "S29PCE",
+                "fioriId": "FMRP_RFFMEP1FX",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S23OP',fioriId='FMRP_FW_BROWSER',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "FM Line Item Browser",
+                "releaseId": "S23OP",
+                "fioriId": "FMRP_FW_BROWSER",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMBROWSER',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "FM Line Item Browser",
+                "releaseId": "S29PCE",
+                "fioriId": "FMBROWSER",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FM_FUNCTION',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "FM: Functional Area",
+                "releaseId": "S29PCE",
+                "fioriId": "FM_FUNCTION",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMCCF_MONI',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Fiscal Year Change Monitor",
+                "releaseId": "S29PCE",
+                "fioriId": "FMCCF_MONI",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0727A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Functional Area Group 360° View",
+                "releaseId": "S29PCE",
+                "fioriId": "F0727A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0715A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Fund Group 360° View",
+                "releaseId": "S29PCE",
+                "fioriId": "F0715A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0729A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Funded Program Group 360° View",
+                "releaseId": "S29PCE",
+                "fioriId": "F0729A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMMEASURED',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Funded Program: Display",
+                "releaseId": "S29PCE",
+                "fioriId": "FMMEASURED",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0724A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Funds Center Group 360° View",
+                "releaseId": "S29PCE",
+                "fioriId": "F0724A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0837A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Grant 360° View",
+                "releaseId": "S29PCE",
+                "fioriId": "F0837A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0838A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Grant Group 360° View",
+                "releaseId": "S29PCE",
+                "fioriId": "F0838A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0805A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Manage Applications of Funds",
+                "releaseId": "S29PCE",
+                "fioriId": "F0805A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0723A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Manage Budget Periods",
+                "releaseId": "S29PCE",
+                "fioriId": "F0723A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F5637',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Manage Budget Structure Elements",
+                "releaseId": "S29PCE",
+                "fioriId": "F5637",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F2762',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Manage Budget Transfers",
+                "releaseId": "S29PCE",
+                "fioriId": "F2762",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0726A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Manage Commitment Items",
+                "releaseId": "S29PCE",
+                "fioriId": "F0726A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F7564',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Manage Earmarked Funds",
+                "releaseId": "S29PCE",
+                "fioriId": "F7564",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0728A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Manage Functional Areas",
+                "releaseId": "S29PCE",
+                "fioriId": "F0728A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0775A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Manage Funded Programs",
+                "releaseId": "S29PCE",
+                "fioriId": "F0775A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0714A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Manage Funds",
+                "releaseId": "S29PCE",
+                "fioriId": "F0714A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F0722A',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Manage Funds Centers",
+                "releaseId": "S29PCE",
+                "fioriId": "F0722A",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F2918',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Manage Global Hierarchies",
+                "releaseId": "S29PCE",
+                "fioriId": "F2918",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F2164',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "My Budget Alerts",
+                "releaseId": "S29PCE",
+                "fioriId": "F2164",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F2163',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "My Budget Overview",
+                "releaseId": "S29PCE",
+                "fioriId": "F2163",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='W0191',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Period Budget and Commitment/Actual Line Item Analyzer",
+                "releaseId": "S29PCE",
+                "fioriId": "W0191",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMAVC_PERS_ANNUAL',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Personalization for Annual AVC Apps",
+                "releaseId": "S29PCE",
+                "fioriId": "FMAVC_PERS_ANNUAL",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='FMAVC_PERS_OVERALL',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Personalization for Overall AVC Apps",
+                "releaseId": "S29PCE",
+                "fioriId": "FMAVC_PERS_OVERALL",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F884',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Release Acceptance Request",
+                "releaseId": "S29PCE",
+                "fioriId": "F884",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F894',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Release Clearing Request",
+                "releaseId": "S29PCE",
+                "fioriId": "F894",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F874',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Release Payment Request",
+                "releaseId": "S29PCE",
+                "fioriId": "F874",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            },
+            {
+                "__metadata": {
+                    "type": "sap.fix.externalViewer.services.SingleApp.RelatedAppsByRoleType",
+                    "uri": "https://fioriappslibrary.hana.ondemand.com:443/sap/fix/externalViewer/services/SingleApp.xsodata/RelatedAppsByRole(InpfioriId='FMAVCH01',InpRoleName='Budget%20Responsible%20-%20Funds%20Management',InpRGT='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29',releaseId='S29PCE',fioriId='F8Q5',RoleName='Budget%20Responsible%20-%20Funds%20Management',releaseGroupText='SAP%20S%2F4HANA%20%28Private%20Cloud%20and%20On-Premise%29')"
+                },
+                "InpfioriId": "FMAVCH01",
+                "InpRoleName": "Budget Responsible - Funds Management",
+                "InpRGT": "SAP S/4HANA (Private Cloud and On-Premise)",
+                "AppName": "Release Standing Request",
+                "releaseId": "S29PCE",
+                "fioriId": "F8Q5",
+                "RoleName": "Budget Responsible - Funds Management",
+                "releaseGroupText": "SAP S/4HANA (Private Cloud and On-Premise)"
+            }
+        ],
+        "__count": "87"
+    }
+}
