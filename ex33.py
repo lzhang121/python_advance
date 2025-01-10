@@ -3,7 +3,8 @@
 # @Author : zhanglei
 # @Email : zhspark@gmail.com
 
-import fitz  # PyMuPDF
+
+from fitz import open
 from PIL import Image
 import pytesseract
 from googletrans import Translator  # 使用 Google Translate API
@@ -15,7 +16,7 @@ def extract_text_and_images(pdf_path, output_docx, target_lang="zh-cn"):
 	# 初始化翻译器
 	translator = Translator()
 	# 打开 PDF 文件
-	doc = fitz.open(pdf_path)
+	doc = open(pdf_path)
 	# 创建一个 Word 文档
 	docx_file = Document()
 	docx_file.add_heading('翻译结果', level=1)
@@ -63,4 +64,4 @@ def extract_text_and_images(pdf_path, output_docx, target_lang="zh-cn"):
 
 if __name__ == "__main__":
 # 示例调用
-	extract_text_and_images("/Users/zhanglei/Downloads/160.pdf", "translated.docx", target_lang="zh-cn")
+	extract_text_and_images("/Users/zhanglei/xmind2testcase/docs/testlink-official-file-formats.pdf", "translated.docx", target_lang="zh-cn")
